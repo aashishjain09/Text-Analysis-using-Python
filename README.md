@@ -4,8 +4,11 @@ This project is created to perform Data Analysis on a given dataset in form of c
 
 The structure of the dataset in given excel sheet named “email_address.xlsx” which contains three
 worksheets -
+
 ● Names - This worksheet contains all the names of the employees.
+
 ● Emails - This worksheet contains all the email addresses of the employees.
+
 ● Output - Sample of the output for aim
 
 Context -
